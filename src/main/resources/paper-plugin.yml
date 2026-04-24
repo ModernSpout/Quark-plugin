@@ -1,0 +1,15 @@
+name: Quark
+description: $description
+version: '$version'
+
+main: spout.plugin.quark.QuarkPlugin
+bootstrapper: spout.plugin.quark.QuarkPluginBootstrap
+api-version: '1.21.11'
+load: POSTWORLD
+namespaces:
+  quark: Quark
+
+authors:
+  - Violet Moon
+  - Martijn Muijsers
+website: https://github.com/ModernSpout/Quark-plugin
