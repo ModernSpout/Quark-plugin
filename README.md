@@ -13,7 +13,13 @@
 
 This is a [Spout](https://github.com/ModernSpout/Spout-Paper-server) fork of [Quark](https://quarkmod.net/).
 
-It is not complete. Currently, it includes bookshelves for each wood type.
+It is not complete: see which features are ported below.
+
+## Features
+
+### ✅ Variant Bookshelves
+
+All bookshelves from Quark are included and fully functional.
 
 <table>
   <tr>
@@ -28,6 +34,18 @@ It is not complete. Currently, it includes bookshelves for each wood type.
     </td>
   </tr>
 </table>
+
+### 🟡 Ashen Wood
+
+Planks and bookshelves are included, but not obtainable in survival mode.
+
+### 🟡 Azalea Wood
+
+Planks and bookshelves are included, but not obtainable in survival mode.
+
+### 🟡 Trumpet Wood
+
+Planks and bookshelves are included, but not obtainable in survival mode.
 
 ## Installation
 

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "quark:ancient_planks_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_ancient_planks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:ancient_planks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ancient_planks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "quark:ancient_planks_stairs"
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "type": "minecraft:block",
   "properties": {
-    "map_color": "minecraft:sand",
+    "map_color": "minecraft:color_brown",
     "sound_type": "minecraft:wood",
     "explosion_resistance": 1.5,
     "destroy_time": 1.5,

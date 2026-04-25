@@ -1,5 +1,6 @@
 import java.net.URI
 import java.nio.file.Files
+import java.nio.file.StandardCopyOption
 
 plugins {
     id("java-library")
@@ -12,8 +13,9 @@ repositories {
     maven { url = uri("https://jitpack.io") }
 }
 
+val spoutVersion = project.providers.gradleProperty("spoutVersion").get()
 dependencies {
-    compileOnly("com.github.ModernSpout:Spout-Paper-server:ecd8613d52")
+    compileOnly("com.github.ModernSpout:Spout-Paper-server:$spoutVersion")
 }
 
 java {
@@ -28,36 +30,30 @@ tasks {
         dependsOn(shadowJar)
     }
 
+    val spoutJarURL =
+        "https://github.com/ModernSpout/Spout-Paper-server/releases/download/$spoutVersion/spout-$spoutVersion.jar"
     register("downloadServer") {
-        group = "spout"
-        doFirst {
-            serverDir.mkdirs()
-            pluginDir.mkdirs()
-            URI("https://github.com/ModernSpout/Spout-Paper-server/releases/download/1.21.11-R0.1/spout-paperclip-1.21.11-R0.1.jar").toURL().openStream().use {
-                Files.copy(it, serverDir.resolve("server.jar").toPath())
-            }
+        group = "spout"; notCompatibleWithConfigurationCache(""); doFirst {
+        serverDir.mkdirs(); pluginDir.mkdirs()
+        URI(spoutJarURL).toURL().openStream().use {
+            Files.copy(it, serverDir.resolve("server.jar").toPath(), StandardCopyOption.REPLACE_EXISTING)
         }
     }
-
+    }
     register("runServer", JavaExec::class) {
-        notCompatibleWithConfigurationCache("Uses non-serializable Gradle script references")
-        group = "spout"
+        group = "spout"; notCompatibleWithConfigurationCache("")
         dependsOn("shadowJar")
-        if (!serverDir.resolve("server.jar").exists()) {
-            dependsOn("downloadServer")
-        }
+        if (!serverDir.resolve("server.jar").exists()) dependsOn("downloadServer")
         doFirst {
-            pluginDir.resolve("Quark.jar").delete()
+            pluginDir.resolve("${project.name}.jar").delete()
             Files.copy(
-                layout.buildDirectory.file("libs/Quark-plugin-${version}.jar").get().asFile.toPath(),
-                pluginDir.resolve("Quark.jar").toPath()
+                layout.buildDirectory.file("libs/${project.name}-${version}.jar").get().asFile.toPath(),
+                pluginDir.resolve("${project.name}.jar").toPath()
             )
         }
         classpath = files(serverDir.resolve("server.jar"))
-        workingDir = serverDir
-        jvmArgs = listOf("-Dcom.mojang.eula.agree=true")
-        args = listOf("--nogui")
-        standardInput = System.`in`
+        workingDir = serverDir; jvmArgs = listOf("-Dcom.mojang.eula.agree=true", "-Dspout.server.paper.enabled=true")
+        args = listOf("--nogui"); standardInput = System.`in`
     }
 
     processResources {

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:blossom_planks",
+  "properties": {
+    "map_color": "minecraft:color_light_green",
+    "sound_type": "minecraft:wood",
+    "explosion_resistance": 3.0,
+    "destroy_time": 2.0,
+    "ignited_by_lava": true,
+    "instrument": "minecraft:bass"
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:warped_stairs"
+    }
+  ]
+}

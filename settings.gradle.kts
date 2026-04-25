@@ -1,1 +1,1 @@
-rootProject.name = "Quark-plugin"
+rootProject.name = "Quark"
