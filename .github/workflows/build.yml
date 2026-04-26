@@ -27,6 +27,6 @@ jobs:
         with:
           name: Plugin JAR
           path: |
-            build/libs/Quark-*.jar
-            !build/libs/Quark-*-all.jar
+            build/libs/*.jar
+            !build/libs/*-all.jar
           archive: false
