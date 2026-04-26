@@ -11,7 +11,7 @@
   "mappings": [
     {
       "type": "full_block",
-      "fallback": "minecraft:warped_planks"
+      "fallback": "minecraft:pale_oak_planks"
     }
   ]
 }

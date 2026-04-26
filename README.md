@@ -5,13 +5,13 @@
   </h1>
 
 [![Discord](https://img.shields.io/discord/1091830813240348732?color=5865F2&label=discord&style=for-the-badge)](https://discord.gg/EduvcVmKS7)
-[![1.21.11](https://img.shields.io/badge/Latest_version-1.21.11-4fa31a?style=for-the-badge)](https://github.com/ModernSpout/Quark-plugin/actions/workflows/build.yml)
+[![1.21.11](https://img.shields.io/badge/Latest_version-1.21.11-4fa31a?style=for-the-badge)](https://github.com/ModernSpout/Quark-plugin/releases/download/1.1/Quark-1.1.jar)
 
 </div>
 
 ## Introduction
 
-This is a [Spout](https://github.com/ModernSpout/Spout-Paper-server) fork of [Quark](https://quarkmod.net/).
+This is a [Spout](https://github.com/ModernSpout/Spout-Paper-server) port of [Quark](https://quarkmod.net/).
 
 It is not complete: see which features are ported below.
 
@@ -37,22 +37,26 @@ All bookshelves from Quark are included and fully functional.
 
 ### 🟡 Ashen Wood
 
-Planks and bookshelves are included, but not obtainable in survival mode.
+Planks, stairs, slabs, and bookshelves are included, but not obtainable in survival mode.
 
 ### 🟡 Azalea Wood
 
-Planks and bookshelves are included, but not obtainable in survival mode.
+Planks, stairs, slabs, and bookshelves are included, but not obtainable in survival mode.
 
 ### 🟡 Trumpet Wood
 
-Planks and bookshelves are included, but not obtainable in survival mode.
+Planks, stairs, slabs, and bookshelves are included, but not obtainable in survival mode.
+
+## Download
+
+* [Latest version: 1.1 (MC 1.21.11)](https://github.com/ModernSpout/Quark-plugin/releases/download/1.1/Quark-1.1.jar)
+* Development versions: download from
+  [Actions](https://github.com/ModernSpout/Quark-plugin/actions/workflows/build.yml),
+  under **Artifacts**
+* [Older releases](https://github.com/ModernSpout/Quark-plugin/releases)
 
 ## Installation
 
-Download the latest JAR from
-[GitHub Actions](https://github.com/ModernSpout/Quark-plugin/actions/workflows/build.yml),
-under **Artifacts**.
-
-Place the file into the `plugins` folder.
+Place the `.jar` file into the `plugins` folder.
 
 Requires [Spout](https://github.com/ModernSpout/Spout-Paper-server).

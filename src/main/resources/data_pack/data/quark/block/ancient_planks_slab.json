@@ -11,7 +11,7 @@
   "mappings": [
     {
       "type": "slab",
-      "fallback": "minecraft:warped_slab"
+      "fallback": "minecraft:pale_oak_slab"
     }
   ]
 }

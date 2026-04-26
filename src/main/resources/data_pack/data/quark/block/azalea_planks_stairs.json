@@ -12,7 +12,7 @@
   "mappings": [
     {
       "type": "stairs",
-      "fallback": "minecraft:warped_stairs"
+      "fallback": "minecraft:birch_stairs"
     }
   ]
 }
