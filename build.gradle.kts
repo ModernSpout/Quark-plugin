@@ -10,7 +10,7 @@ plugins {
 repositories {
     mavenCentral()
     maven("https://repo.papermc.io/repository/maven-public/")
-    maven { url = uri("https://jitpack.io") }
+    maven("https://jitpack.io")
 }
 
 val spoutVersion = project.providers.gradleProperty("spoutVersion").get()

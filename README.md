@@ -17,6 +17,8 @@ It is not complete: see which features are ported below.
 
 ## Features
 
+### ✅ Sturdy Stone
+
 ### ✅ Variant Bookshelves
 
 All bookshelves from Quark are included and fully functional.
