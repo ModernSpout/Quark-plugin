@@ -22,5 +22,8 @@
   "block.quark.mangrove_bookshelf": "Knowledge stack o' mangrove",
   "block.quark.spruce_bookshelf": "Knowledge stack o' spruce",
   "block.quark.sturdy_stone": "Hardy Rock",
+  "block.quark.thatch": "Chunk o' Fiber",
+  "block.quark.thatch_slab": "Slab o' Fiber",
+  "block.quark.thatch_stairs": "Stairs o' Fiber",
   "block.quark.warped_bookshelf": "Knowledge stack o' twisted hyphae"
 }

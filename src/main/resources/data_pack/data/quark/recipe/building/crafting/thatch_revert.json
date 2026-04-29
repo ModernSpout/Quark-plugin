@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "quark:thatch"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:wheat"
+  }
+}

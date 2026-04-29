@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:thatch",
+  "properties": {
+    "map_color": "minecraft:color_yellow",
+    "sound_type": "minecraft:grass",
+    "explosion_resistance": 0.5,
+    "destroy_time": 0.5,
+    "ignited_by_lava": true
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:oak_stairs"
+    }
+  ]
+}

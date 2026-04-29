@@ -22,5 +22,8 @@
   "block.quark.mangrove_bookshelf": "Mangrovehouten boekenkast",
   "block.quark.spruce_bookshelf": "Sparrenhouten boekenkast",
   "block.quark.sturdy_stone": "Robuuste steen",
+  "block.quark.thatch": "Blok van stro",
+  "block.quark.thatch_slab": "Plaat van stro",
+  "block.quark.thatch_stairs": "Trap van stro",
   "block.quark.warped_bookshelf": "Spookachtig houten boekenkast"
 }

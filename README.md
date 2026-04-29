@@ -19,9 +19,11 @@ It is not complete: see which features are ported below.
 
 ### ✅ Sturdy Stone
 
-### ✅ Variant Bookshelves
+### 🟡 Thatch
 
-All bookshelves from Quark are included and fully functional.
+Thatch blocks do not catch your fall.
+
+### ✅ Variant Bookshelves
 
 <table>
   <tr>

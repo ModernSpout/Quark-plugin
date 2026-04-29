@@ -22,5 +22,8 @@
   "block.quark.mangrove_bookshelf": "紅樹木書架",
   "block.quark.spruce_bookshelf": "雲杉木書架",
   "block.quark.sturdy_stone": "牢固石頭",
+  "block.quark.thatch": "茅草",
+  "block.quark.thatch_slab": "茅草半磚",
+  "block.quark.thatch_stairs": "茅草階梯",
   "block.quark.warped_bookshelf": "詭異木書架"
 }

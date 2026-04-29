@@ -22,5 +22,8 @@
   "block.quark.mangrove_bookshelf": "Mangrovenholzbücherregal",
   "block.quark.spruce_bookshelf": "Fichtenholzbücherregal",
   "block.quark.sturdy_stone": "Starker Stein",
+  "block.quark.thatch": "Dachstrohblock",
+  "block.quark.thatch_slab": "Dachstrohstufe",
+  "block.quark.thatch_stairs": "Dachstrohtreppe",
   "block.quark.warped_bookshelf": "Wirrbücherregal"
 }

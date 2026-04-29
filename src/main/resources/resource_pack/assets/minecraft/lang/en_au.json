@@ -22,5 +22,8 @@
   "block.quark.mangrove_bookshelf": "Mangrove Bookshelf",
   "block.quark.spruce_bookshelf": "Spruce Bookshelf",
   "block.quark.sturdy_stone": "Sturdy Stone",
+  "block.quark.thatch": "Thatch",
+  "block.quark.thatch_slab": "Thatch Slab",
+  "block.quark.thatch_stairs": "Thatch Stairs",
   "block.quark.warped_bookshelf": "Warped Bookshelf"
 }

@@ -22,5 +22,8 @@
   "block.quark.mangrove_bookshelf": "マングローブの本棚",
   "block.quark.spruce_bookshelf": "トウヒの本棚",
   "block.quark.sturdy_stone": "頑丈な石",
+  "block.quark.thatch": "藁葺き",
+  "block.quark.thatch_slab": "藁葺きのハーフブロック",
+  "block.quark.thatch_stairs": "藁葺きの階段",
   "block.quark.warped_bookshelf": "歪んだ本棚"
 }
