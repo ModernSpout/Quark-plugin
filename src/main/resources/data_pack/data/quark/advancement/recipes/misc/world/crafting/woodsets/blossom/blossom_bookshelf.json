@@ -23,7 +23,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "quark:blossom_bookshelf"
+        "recipe": "quark:world/crafting/woodsets/blossom/blossom_bookshelf"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -37,7 +37,7 @@
   ],
   "rewards": {
     "recipes": [
-      "quark:blossom_bookshelf"
+      "quark:world/crafting/woodsets/blossom/blossom_bookshelf"
     ]
   }
 }

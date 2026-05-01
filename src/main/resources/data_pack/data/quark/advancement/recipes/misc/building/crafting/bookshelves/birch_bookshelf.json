@@ -23,7 +23,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "quark:birch_bookshelf"
+        "recipe": "quark:building/crafting/bookshelves/birch_bookshelf"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -37,7 +37,7 @@
   ],
   "rewards": {
     "recipes": [
-      "quark:birch_bookshelf"
+      "quark:building/crafting/bookshelves/birch_bookshelf"
     ]
   }
 }

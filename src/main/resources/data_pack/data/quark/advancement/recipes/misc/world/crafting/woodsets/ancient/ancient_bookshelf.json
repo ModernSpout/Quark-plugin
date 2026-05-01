@@ -23,7 +23,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "quark:ancient_bookshelf"
+        "recipe": "quark:world/crafting/woodsets/ancient/ancient_bookshelf"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -37,7 +37,7 @@
   ],
   "rewards": {
     "recipes": [
-      "quark:ancient_bookshelf"
+      "quark:world/crafting/woodsets/ancient/ancient_bookshelf"
     ]
   }
 }

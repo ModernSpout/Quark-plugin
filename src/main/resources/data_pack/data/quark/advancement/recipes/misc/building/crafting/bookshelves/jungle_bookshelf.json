@@ -23,7 +23,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "quark:jungle_bookshelf"
+        "recipe": "quark:building/crafting/bookshelves/jungle_bookshelf"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -37,7 +37,7 @@
   ],
   "rewards": {
     "recipes": [
-      "quark:jungle_bookshelf"
+      "quark:building/crafting/bookshelves/jungle_bookshelf"
     ]
   }
 }

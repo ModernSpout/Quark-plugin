@@ -23,7 +23,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "quark:mangrove_bookshelf"
+        "recipe": "quark:building/crafting/bookshelves/mangrove_bookshelf"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -37,7 +37,7 @@
   ],
   "rewards": {
     "recipes": [
-      "quark:mangrove_bookshelf"
+      "quark:building/crafting/bookshelves/mangrove_bookshelf"
     ]
   }
 }

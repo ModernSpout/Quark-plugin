@@ -23,7 +23,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "quark:azalea_bookshelf"
+        "recipe": "quark:world/crafting/woodsets/azalea/azalea_bookshelf"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -37,7 +37,7 @@
   ],
   "rewards": {
     "recipes": [
-      "quark:azalea_bookshelf"
+      "quark:world/crafting/woodsets/azalea/azalea_bookshelf"
     ]
   }
 }

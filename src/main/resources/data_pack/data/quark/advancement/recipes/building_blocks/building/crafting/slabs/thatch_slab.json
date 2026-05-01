@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "quark:thatch_slab"
+        "recipe": "quark:building/crafting/thatch_slab"
       },
       "trigger": "minecraft:recipe_unlocked"
     },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "quark:thatch_slab"
+      "quark:building/crafting/thatch_slab"
     ]
   }
 }

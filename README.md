@@ -39,17 +39,29 @@ Thatch blocks do not catch your fall.
   </tr>
 </table>
 
+### ✅ Variant Ladders
+
+### 🟡 Utility Recipes
+
+Raw ore blocks can be smelted into metal blocks.
+
 ### 🟡 Ashen Wood
 
-Planks, stairs, slabs, and bookshelves are included, but not obtainable in survival mode.
+Includes bookshelves, buttons, doors, fence gates, ladders, planks, pressure plates, slabs, stairs and trapdoors.
+
+Currently not obtainable in survival mode.
 
 ### 🟡 Azalea Wood
 
-Planks, stairs, slabs, and bookshelves are included, but not obtainable in survival mode.
+Includes bookshelves, buttons, doors, fence gates, ladders, planks, pressure plates, slabs, stairs and trapdoors.
+
+Currently not obtainable in survival mode.
 
 ### 🟡 Trumpet Wood
 
-Planks, stairs, slabs, and bookshelves are included, but not obtainable in survival mode.
+Includes bookshelves, buttons, doors, fence gates, ladders, planks, pressure plates, slabs, stairs and trapdoors.
+
+Currently not obtainable in survival mode.
 
 ## Download
 

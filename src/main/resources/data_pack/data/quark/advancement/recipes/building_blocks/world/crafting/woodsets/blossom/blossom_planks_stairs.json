@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "quark:blossom_planks_stairs"
+        "recipe": "quark:world/crafting/woodsets/blossom/blossom_planks_stairs"
       },
       "trigger": "minecraft:recipe_unlocked"
     },
@@ -26,7 +26,7 @@
   ],
   "rewards": {
     "recipes": [
-      "quark:blossom_planks_stairs"
+      "quark:world/crafting/woodsets/blossom/blossom_planks_stairs"
     ]
   }
 }
