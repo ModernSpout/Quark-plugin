@@ -4,7 +4,7 @@ version: '$version'
 
 main: spout.plugin.quark.QuarkPlugin
 bootstrapper: spout.plugin.quark.QuarkPluginBootstrap
-api-version: '1.21.11'
+api-version: '26.1.2'
 load: POSTWORLD
 namespaces:
   quark: Quark

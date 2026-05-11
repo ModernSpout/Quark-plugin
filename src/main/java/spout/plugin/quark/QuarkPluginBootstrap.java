@@ -14,7 +14,7 @@ class QuarkPluginBootstrap implements PluginBootstrap {
 
     @Override
     public void bootstrap(BootstrapContext context) {
-        if (!CheckSpout.checkSpout(context.getLogger())) return; // Don't do anything else if the server doesn't support Spout
+        if (!CheckSpout.checkSpout()) return; // Don't do anything else if the server doesn't support Spout
         registerIncludedDataPack(context);
         registerIncludedResourcePack(context);
     }

@@ -1,18 +1,11 @@
 {
   "type": "minecraft:ladder",
   "properties": {
-    "chunk_section_layer": "minecraft:cutout",
-    "map_color": "minecraft:color_orange",
-    "sound_type": "minecraft:ladder",
-    "explosion_resistance": 0.4,
-    "destroy_time": 0.4,
-    "can_occlude": false,
-    "force_solid_off": true
+    "map_color": "minecraft:color_orange"
   },
   "mappings": [
     {
-      "type": "ladder",
-      "fallback": "minecraft:ladder"
+      "type": "ladder"
     }
   ]
 }
