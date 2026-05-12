@@ -45,26 +45,18 @@ Thatch blocks do not catch your fall.
 
 Raw ore blocks can be smelted into metal blocks.
 
-### 🟡 Ashen Wood
+### 🟡 Ashen, Azalea & Trumpet Wood
 
-Includes bookshelves, buttons, doors, fences, fence gates, ladders,
-planks, pressure plates, slabs, stairs and trapdoors.
-
-Currently not obtainable in survival mode.
-
-### 🟡 Azalea Wood
-
-Includes bookshelves, buttons, doors, fences, fence gates, ladders,
-planks, pressure plates, slabs, stairs and trapdoors.
+Includes bookshelves, buttons, doors, fences, fence gates, ladders, leaves,
+(stripped) logs, planks, pressure plates, saplings, slabs, stairs, trapdoors and (stripped) wood.
 
 Currently not obtainable in survival mode.
-
-### 🟡 Trumpet Wood
-
-Includes bookshelves, buttons, doors, fences, fence gates, ladders,
-planks, pressure plates, slabs, stairs and trapdoors.
-
-Currently not obtainable in survival mode.
+Saplings and leaves cannot be composted.
+Saplings cannot be used as furnace fuel.
+Saplings cannot be grown.
+Saplings cannot be potted.
+Logs and wood cannot be stripped.
+The enchanted fruit cannot be eaten.
 
 ## Downloads
 

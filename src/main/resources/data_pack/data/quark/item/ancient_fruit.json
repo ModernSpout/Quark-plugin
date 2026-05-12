@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:item",
+  "block": "quark:ancient_fruit",
+  "mappings": [
+    {
+      "to": "minecraft:glistering_melon_slice"
+    }
+  ]
+}

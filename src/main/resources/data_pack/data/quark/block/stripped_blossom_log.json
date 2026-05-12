@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:rotated_pillar",
+  "properties": {
+    "map_color": "minecraft:color_red",
+    "sound_type": "minecraft:wood",
+    "explosion_resistance": 2.0,
+    "destroy_time": 2.0,
+    "ignited_by_lava": true,
+    "instrument": "minecraft:bass"
+  },
+  "mappings": [
+    {
+      "type": "rotated_pillar",
+      "fallback": "minecraft:stripped_mangrove_log"
+    }
+  ]
+}

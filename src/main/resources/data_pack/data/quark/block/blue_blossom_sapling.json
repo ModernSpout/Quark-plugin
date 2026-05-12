@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:sapling",
+  "tree": "oak",
+  "mappings": [
+    {
+      "type": "sapling",
+      "fallback": "minecraft:dark_oak_sapling"
+    }
+  ]
+}
