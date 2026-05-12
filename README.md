@@ -47,19 +47,22 @@ Raw ore blocks can be smelted into metal blocks.
 
 ### 🟡 Ashen Wood
 
-Includes bookshelves, buttons, doors, fence gates, ladders, planks, pressure plates, slabs, stairs and trapdoors.
+Includes bookshelves, buttons, doors, fences, fence gates, ladders,
+planks, pressure plates, slabs, stairs and trapdoors.
 
 Currently not obtainable in survival mode.
 
 ### 🟡 Azalea Wood
 
-Includes bookshelves, buttons, doors, fence gates, ladders, planks, pressure plates, slabs, stairs and trapdoors.
+Includes bookshelves, buttons, doors, fences, fence gates, ladders,
+planks, pressure plates, slabs, stairs and trapdoors.
 
 Currently not obtainable in survival mode.
 
 ### 🟡 Trumpet Wood
 
-Includes bookshelves, buttons, doors, fence gates, ladders, planks, pressure plates, slabs, stairs and trapdoors.
+Includes bookshelves, buttons, doors, fences, fence gates, ladders,
+planks, pressure plates, slabs, stairs and trapdoors.
 
 Currently not obtainable in survival mode.
 
