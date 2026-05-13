@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:raw_copper_bricks",
+  "properties": {
+    "map_color": "minecraft:color_orange",
+    "instrument": "minecraft:basedrum",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 5.0,
+    "explosion_resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:waxed_cut_copper_stairs"
+    }
+  ]
+}

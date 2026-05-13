@@ -17,11 +17,19 @@ It is not complete: see which features are ported below.
 
 ## Features
 
+### 🟡 More Potted Plants
+
+Fully implemented, except:
+* Potted plants for chorus twist, chorus weeds, glow lichen growth and glow shroom
+* Potted large fern, short grass, tall grass, sugar cane and vine are not tinted
+
 ### ✅ Sturdy Stone
 
 ### 🟡 Thatch
 
-Thatch blocks do not catch your fall.
+Fully implemented, except:
+* Thatch does not catch your fall
+* Thatch cannot be composted
 
 ### ✅ Variant Bookshelves
 
@@ -43,20 +51,31 @@ Thatch blocks do not catch your fall.
 
 ### 🟡 Utility Recipes
 
-Raw ore blocks can be smelted into metal blocks.
+These are implemented:
+* Raw ore blocks can be smelted into metal blocks
 
 ### 🟡 Ashen, Azalea & Trumpet Wood
 
-Includes bookshelves, buttons, doors, fences, fence gates, ladders, leaves,
-(stripped) logs, planks, pressure plates, saplings, slabs, stairs, trapdoors and (stripped) wood.
+These are implemented:
+* Bookshelves
+* Buttons and pressure plates
+* Doors and trapdoors
+* Fences and fence gates
+* Ladders
+* Leaves
+* (Stripped) logs and wood
+* Planks
+* (Potted) saplings
+  * The ashen sapling can be dug up by a sniffer
+  * The blossom saplings can be bought from wandering traders
+* Slabs and stairs
 
-Currently not obtainable in survival mode.
-Saplings and leaves cannot be composted.
-Saplings cannot be used as furnace fuel.
-Saplings cannot be grown.
-Saplings cannot be potted.
-Logs and wood cannot be stripped.
-The enchanted fruit cannot be eaten.
+Except:
+* Saplings and leaves cannot be composted
+* Saplings cannot be used as furnace fuel
+* All saplings grow into oak trees
+* Logs and wood cannot be stripped
+* The enchanted fruit cannot be eaten
 
 ## Downloads
 

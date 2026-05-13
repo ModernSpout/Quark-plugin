@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "quark:block/permafrost_slab"
+    },
+    "type=double": {
+      "model": "quark:block/permafrost"
+    },
+    "type=top": {
+      "model": "quark:block/permafrost_slab_top"
+    }
+  }
+}

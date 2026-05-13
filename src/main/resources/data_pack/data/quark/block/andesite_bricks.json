@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:block",
+  "properties": {
+    "map_color": "minecraft:stone",
+    "sound_type": "minecraft:stone",
+    "requires_correct_tool_for_drops": true,
+    "instrument": "minecraft:basedrum",
+    "destroy_time": 1.5,
+    "explosion-resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "full_block",
+      "fallback": "minecraft:polished_andesite"
+    }
+  ]
+}

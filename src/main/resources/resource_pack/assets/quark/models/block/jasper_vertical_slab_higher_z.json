@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_higher_z",
+  "textures": {
+    "side": "quark:block/jasper",
+    "top": "quark:block/jasper",
+    "bottom": "quark:block/jasper"
+  }
+}

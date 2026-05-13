@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_lower_x",
+  "textures": {
+    "side": "quark:block/polished_jasper",
+    "top": "quark:block/polished_jasper",
+    "bottom": "quark:block/polished_jasper"
+  }
+}

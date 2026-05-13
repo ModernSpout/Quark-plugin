@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "quark:block/duskbound_block_slab"
+    },
+    "type=double": {
+      "model": "quark:block/duskbound_block"
+    },
+    "type=top": {
+      "model": "quark:block/duskbound_block_slab_top"
+    }
+  }
+}

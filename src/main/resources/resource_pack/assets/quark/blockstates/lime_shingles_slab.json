@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "quark:block/lime_shingles_slab"
+    },
+    "type=double": {
+      "model": "quark:block/lime_shingles"
+    },
+    "type=top": {
+      "model": "quark:block/lime_shingles_slab_top"
+    }
+  }
+}

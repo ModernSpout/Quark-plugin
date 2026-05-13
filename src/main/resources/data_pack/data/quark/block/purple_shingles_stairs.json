@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:purple_shingles",
+  "properties": {
+    "map_color": "minecraft:terracotta_purple",
+    "instrument": "minecraft:basedrum",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 1.25,
+    "explosion_resistance": 4.2
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:purpur_stairs"
+    }
+  ]
+}

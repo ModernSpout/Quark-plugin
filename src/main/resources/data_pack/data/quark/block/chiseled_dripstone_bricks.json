@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:block",
+  "properties": {
+    "map_color": "minecraft:terracotta_brown",
+    "instrument": "minecraft:basedrum",
+    "sound_type": "minecraft:dripstone_block",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 1.5,
+    "explosion_resistance": 1.0
+  },
+  "mappings": [
+    {
+      "type": "full_block",
+      "fallback": "minecraft:dripstone_block"
+    }
+  ]
+}

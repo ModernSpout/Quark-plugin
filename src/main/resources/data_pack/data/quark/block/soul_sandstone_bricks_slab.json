@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:slab",
+  "properties": {
+    "map_color": "minecraft:color_brown",
+    "destroy_time": 0.8,
+    "explosion_resistance": 0.8,
+    "requires_correct_tool_for_drops": true,
+    "instrument": "minecraft:basedrum"
+  },
+  "mappings": [
+    {
+      "type": "slab",
+      "fallback": "minecraft:mud_brick_slab"
+    }
+  ]
+}

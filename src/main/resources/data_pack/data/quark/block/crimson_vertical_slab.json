@@ -1,0 +1,17 @@
+{
+  "type": "spout:vertical_slab",
+  "properties": {
+    "map_color": "minecraft:crimson_stem",
+    "instrument": "minecraft:bass",
+    "destroy_time": 2.0,
+    "explosion_resistance": 3.0,
+    "sound_type": "minecraft:nether_wood",
+    "ignited_by_lava": true
+  },
+  "mappings": [
+    {
+      "type": "full_block",
+      "fallback": "minecraft:crimson_planks"
+    }
+  ]
+}

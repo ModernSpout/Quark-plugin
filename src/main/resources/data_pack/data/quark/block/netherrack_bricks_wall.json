@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:wall",
+  "properties": {
+    "map_color": "minecraft:nether",
+    "instrument": "minecraft:basedrum",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 0.4,
+    "explosion_resistance": 0.4,
+    "sound_type": "minecraft:netherrack"
+  },
+  "mappings": [
+    {
+      "type": "wall",
+      "fallback": "minecraft:nether_brick_wall"
+    }
+  ]
+}

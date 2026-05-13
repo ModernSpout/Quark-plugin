@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:mossy_cobblestone_bricks",
+  "properties": {
+    "map_color": "minecraft:stone",
+    "instrument": "minecraft:basedrum",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 2.0,
+    "explosion_resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:mossy_cobblestone_stairs"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:red_shingles",
+  "properties": {
+    "map_color": "minecraft:terracotta_red",
+    "instrument": "minecraft:basedrum",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 1.25,
+    "explosion_resistance": 4.2
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:red_nether_brick_stairs"
+    }
+  ]
+}

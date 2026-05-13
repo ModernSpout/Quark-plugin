@@ -1,0 +1,17 @@
+{
+  "type": "spout:vertical_slab",
+  "properties": {
+    "map_color": "minecraft:color_yellow",
+    "instrument": "minecraft:bass",
+    "sound_type": "minecraft:bamboo_wood",
+    "destroy_time": 2.0,
+    "explosion_resistance": 3.0,
+    "ignited_by_lava": true
+  },
+  "mappings": [
+    {
+      "type": "full_block",
+      "fallback": "minecraft:bamboo_planks"
+    }
+  ]
+}

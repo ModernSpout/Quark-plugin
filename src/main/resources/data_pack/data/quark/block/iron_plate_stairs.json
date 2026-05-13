@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:iron_plate",
+  "properties": {
+    "map_color": "minecraft:metal",
+    "sound_type": "minecraft:iron",
+    "instrument": "minecraft:iron_xylophone",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 5.0,
+    "explosion_resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:polished_diorite_stairs"
+    }
+  ]
+}

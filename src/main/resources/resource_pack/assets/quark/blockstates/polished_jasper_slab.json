@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "quark:block/polished_jasper_slab"
+    },
+    "type=double": {
+      "model": "quark:block/polished_jasper"
+    },
+    "type=top": {
+      "model": "quark:block/polished_jasper_slab_top"
+    }
+  }
+}

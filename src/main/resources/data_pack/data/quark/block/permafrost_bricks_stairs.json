@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:permafrost_bricks",
+  "properties": {
+    "map_color": "minecraft:color_light_blue",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 1.5,
+    "explosion_resistance": 10.0,
+    "sound_type": "minecraft:stone",
+    "instrument": "minecraft:basedrum"
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:prismarine_brick_stairs"
+    }
+  ]
+}

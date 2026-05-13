@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:weathering_copper_grate",
+  "weathering_state": "oxidized",
+  "properties": {
+    "map_color": "minecraft:terracotta_light_gray",
+    "instrument": "minecraft:basedrum",
+    "sound_type": "minecraft:mud_bricks",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 1.5,
+    "explosion_resistance": 3.0
+  },
+  "mappings": [
+    {
+      "type": "leaves",
+      "fallback": "minecraft:waxed_copper_grate"
+    }
+  ]
+}

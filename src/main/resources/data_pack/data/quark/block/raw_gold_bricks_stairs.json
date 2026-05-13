@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:raw_gold_bricks",
+  "properties": {
+    "map_color": "minecraft:gold",
+    "instrument": "minecraft:basedrum",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 5.0,
+    "explosion_resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:bamboo_mosaic_stairs"
+    }
+  ]
+}

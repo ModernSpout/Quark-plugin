@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "minecraft:dripstone_block",
+  "properties": {
+    "map_color": "minecraft:terracotta_brown",
+    "instrument": "minecraft:basedrum",
+    "sound_type": "minecraft:dripstone_block",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 1.5,
+    "explosion_resistance": 1.0
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:mud_brick_stairs"
+    }
+  ]
+}

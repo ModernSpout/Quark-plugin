@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "quark:block/myalite_bricks_wall_inventory"
+  }
+}

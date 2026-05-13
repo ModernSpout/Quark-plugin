@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_higher_x",
+  "textures": {
+    "side": "minecraft:block/sandstone",
+    "top": "minecraft:block/sandstone",
+    "bottom": "minecraft:block/sandstone"
+  }
+}

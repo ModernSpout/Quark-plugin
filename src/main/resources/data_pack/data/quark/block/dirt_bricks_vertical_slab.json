@@ -1,0 +1,14 @@
+{
+  "type": "spout:vertical_slab",
+  "properties": {
+    "map_color": "minecraft:dirt",
+    "destroy_time": 0.5,
+    "sound_type": "minecraft:gravel"
+  },
+  "mappings": [
+    {
+      "type": "full_block",
+      "fallback": "minecraft:mud_bricks"
+    }
+  ]
+}

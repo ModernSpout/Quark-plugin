@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:red_sandstone_bricks",
+  "properties": {
+    "map_color": "minecraft:color_orange",
+    "instrument": "minecraft:basedrum",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 2.0,
+    "explosion_resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:red_sandstone_stairs"
+    }
+  ]
+}

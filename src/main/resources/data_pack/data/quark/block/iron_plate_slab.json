@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:slab",
+  "properties": {
+    "map_color": "minecraft:metal",
+    "sound_type": "minecraft:iron",
+    "instrument": "minecraft:iron_xylophone",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 5.0,
+    "explosion_resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "slab",
+      "fallback": "minecraft:polished_diorite_slab"
+    }
+  ]
+}

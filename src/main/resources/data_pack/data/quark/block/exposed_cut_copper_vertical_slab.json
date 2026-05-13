@@ -1,0 +1,17 @@
+{
+  "type": "spout:vertical_slab",
+  "properties": {
+    "map_color": "minecraft:terracotta_light_gray",
+    "instrument": "minecraft:trumpet_exposed",
+    "sound_type": "minecraft:copper",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 3.0,
+    "explosion_resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "full_block",
+      "fallback": "minecraft:exposed_cut_copper"
+    }
+  ]
+}

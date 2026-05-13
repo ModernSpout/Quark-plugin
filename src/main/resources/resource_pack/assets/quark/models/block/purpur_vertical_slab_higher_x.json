@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_higher_x",
+  "textures": {
+    "side": "minecraft:block/purpur_block",
+    "top": "minecraft:block/purpur_block",
+    "bottom": "minecraft:block/purpur_block"
+  }
+}

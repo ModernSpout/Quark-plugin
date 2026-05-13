@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:soul_sandstone_bricks",
+  "properties": {
+    "map_color": "minecraft:color_brown",
+    "destroy_time": 0.8,
+    "explosion_resistance": 0.8,
+    "requires_correct_tool_for_drops": true,
+    "instrument": "minecraft:basedrum"
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:mud_brick_stairs"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_higher_x",
+  "textures": {
+    "side": "minecraft:block/blackstone",
+    "top": "minecraft:block/blackstone",
+    "bottom": "minecraft:block/blackstone"
+  }
+}

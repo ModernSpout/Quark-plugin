@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:blue_nether_bricks",
+  "properties": {
+    "map_color": "minecraft:warped_nylium",
+    "instrument": "minecraft:basedrum",
+    "sound_type": "minecraft:nether_bricks",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 2.0,
+    "explosion_resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:nether_brick_stairs"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "quark:block/polished_shale_slab"
+    },
+    "type=double": {
+      "model": "quark:block/polished_shale"
+    },
+    "type=top": {
+      "model": "quark:block/polished_shale_slab_top"
+    }
+  }
+}

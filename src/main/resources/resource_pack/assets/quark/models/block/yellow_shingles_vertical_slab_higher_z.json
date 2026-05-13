@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_higher_z",
+  "textures": {
+    "side": "quark:block/yellow_shingles",
+    "top": "quark:block/yellow_shingles",
+    "bottom": "quark:block/yellow_shingles"
+  }
+}

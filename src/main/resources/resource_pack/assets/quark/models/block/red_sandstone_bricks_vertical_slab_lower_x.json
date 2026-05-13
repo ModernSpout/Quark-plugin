@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_lower_x",
+  "textures": {
+    "side": "quark:block/red_sandstone_bricks",
+    "top": "quark:block/red_sandstone_bricks",
+    "bottom": "quark:block/red_sandstone_bricks"
+  }
+}

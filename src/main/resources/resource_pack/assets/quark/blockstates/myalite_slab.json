@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "quark:block/myalite_slab"
+    },
+    "type=double": {
+      "model": "quark:block/myalite"
+    },
+    "type=top": {
+      "model": "quark:block/myalite_slab_top"
+    }
+  }
+}

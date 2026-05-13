@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_lower_x",
+  "textures": {
+    "side": "quark:block/raw_copper_bricks",
+    "top": "quark:block/raw_copper_bricks",
+    "bottom": "quark:block/raw_copper_bricks"
+  }
+}

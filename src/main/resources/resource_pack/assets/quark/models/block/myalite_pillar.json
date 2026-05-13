@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "quark:block/myalite_pillar_top",
+    "side": "quark:block/myalite_pillar"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "minecraft:calcite",
+  "properties": {
+    "map_color": "minecraft:terracotta_white",
+    "sound_type": "minecraft:calcite",
+    "requires_correct_tool_for_drops": true,
+    "instrument": "minecraft:basedrum",
+    "destroy_time": 1.5,
+    "explosion_resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:smooth_quartz_stairs"
+    }
+  ]
+}

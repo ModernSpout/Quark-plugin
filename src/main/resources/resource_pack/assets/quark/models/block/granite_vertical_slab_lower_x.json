@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_lower_x",
+  "textures": {
+    "side": "minecraft:block/granite",
+    "top": "minecraft:block/granite",
+    "bottom": "minecraft:block/granite"
+  }
+}

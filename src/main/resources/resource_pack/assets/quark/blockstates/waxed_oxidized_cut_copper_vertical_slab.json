@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "axis=x,type=lower": {
+      "model": "quark:block/oxidized_cut_copper_vertical_slab_lower_x"
+    },
+    "axis=x,type=higher": {
+      "model": "quark:block/oxidized_cut_copper_vertical_slab_higher_x"
+    },
+    "axis=z,type=lower": {
+      "model": "quark:block/oxidized_cut_copper_vertical_slab_lower_z"
+    },
+    "axis=z,type=higher": {
+      "model": "quark:block/oxidized_cut_copper_vertical_slab_higher_z"
+    },
+    "type=double": {
+      "model": "minecraft:block/oxidized_cut_copper"
+    }
+  }
+}

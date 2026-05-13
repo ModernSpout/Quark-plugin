@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_lower_x",
+  "textures": {
+    "side": "quark:block/pink_shingles",
+    "top": "quark:block/pink_shingles",
+    "bottom": "quark:block/pink_shingles"
+  }
+}

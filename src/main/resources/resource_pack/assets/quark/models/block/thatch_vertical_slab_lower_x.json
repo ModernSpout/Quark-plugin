@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_lower_x",
+  "textures": {
+    "side": "quark:block/thatch",
+    "top": "quark:block/thatch",
+    "bottom": "quark:block/thatch"
+  }
+}

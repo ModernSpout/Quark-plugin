@@ -1,0 +1,16 @@
+{
+  "type": "spout:vertical_slab",
+  "properties": {
+    "map_color": "minecraft:color_yellow",
+    "sound_type": "minecraft:grass",
+    "explosion_resistance": 0.5,
+    "destroy_time": 0.5,
+    "ignited_by_lava": true
+  },
+  "mappings": [
+    {
+      "type": "full_block",
+      "fallback": "minecraft:hay_block"
+    }
+  ]
+}

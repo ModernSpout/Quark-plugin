@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_higher_z",
+  "textures": {
+    "side": "quark:block/polished_shale",
+    "top": "quark:block/polished_shale",
+    "bottom": "quark:block/polished_shale"
+  }
+}

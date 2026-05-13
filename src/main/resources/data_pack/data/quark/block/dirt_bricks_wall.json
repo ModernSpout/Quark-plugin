@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:wall",
+  "properties": {
+    "map_color": "minecraft:dirt",
+    "destroy_time": 0.5,
+    "sound_type": "minecraft:gravel"
+  },
+  "mappings": [
+    {
+      "type": "wall",
+      "fallback": "minecraft:mud_brick_wall"
+    }
+  ]
+}

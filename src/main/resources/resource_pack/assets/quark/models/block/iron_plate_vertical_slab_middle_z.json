@@ -1,0 +1,8 @@
+{
+  "parent": "spout:block/vertical_slab_middle_z",
+  "textures": {
+    "side": "quark:block/iron_plate",
+    "top": "quark:block/iron_plate",
+    "bottom": "quark:block/iron_plate"
+  }
+}

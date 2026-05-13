@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:stair",
+  "base_state": "quark:white_shingles",
+  "properties": {
+    "map_color": "minecraft:terracotta_white",
+    "instrument": "minecraft:basedrum",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 1.25,
+    "explosion_resistance": 4.2
+  },
+  "mappings": [
+    {
+      "type": "stairs",
+      "fallback": "minecraft:quartz_stairs"
+    }
+  ]
+}

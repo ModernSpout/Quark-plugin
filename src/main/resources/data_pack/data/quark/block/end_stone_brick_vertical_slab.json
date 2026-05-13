@@ -1,0 +1,16 @@
+{
+  "type": "spout:vertical_slab",
+  "properties": {
+    "map_color": "minecraft:sand",
+    "instrument": "minecraft:basedrum",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 3.0,
+    "explosion_resistance": 9.0
+  },
+  "mappings": [
+    {
+      "type": "full_block",
+      "fallback": "minecraft:end_stone_bricks"
+    }
+  ]
+}

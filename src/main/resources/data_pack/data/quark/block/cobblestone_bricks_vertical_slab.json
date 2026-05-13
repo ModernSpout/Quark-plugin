@@ -1,0 +1,16 @@
+{
+  "type": "spout:vertical_slab",
+  "properties": {
+    "map_color": "minecraft:stone",
+    "instrument": "minecraft:basedrum",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 2.0,
+    "explosion_resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "full_block",
+      "fallback": "minecraft:cobblestone"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "axis=x,type=lower": {
+      "model": "quark:block/red_nether_brick_vertical_slab_lower_x"
+    },
+    "axis=x,type=higher": {
+      "model": "quark:block/red_nether_brick_vertical_slab_higher_x"
+    },
+    "axis=z,type=lower": {
+      "model": "quark:block/red_nether_brick_vertical_slab_lower_z"
+    },
+    "axis=z,type=higher": {
+      "model": "quark:block/red_nether_brick_vertical_slab_higher_z"
+    },
+    "type=double": {
+      "model": "minecraft:block/red_nether_bricks"
+    }
+  }
+}

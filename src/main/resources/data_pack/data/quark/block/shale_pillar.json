@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:rotated_pillar",
+  "properties": {
+    "map_color": "minecraft:ice",
+    "instrument": "minecraft:basedrum",
+    "requires_correct_tool_for_drops": true,
+    "destroy_time": 1.5,
+    "explosion_resistance": 6.0
+  },
+  "mappings": [
+    {
+      "type": "rotated_pillar",
+      "fallback": "minecraft:polished_andesite"
+    }
+  ]
+}
