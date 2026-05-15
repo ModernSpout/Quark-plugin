@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:flower_pot",
+  "potted": "minecraft:sunflower",
+  "mappings": [
+    {
+      "type": "flower_pot",
+      "fallback": "minecraft:potted_dandelion"
+    }
+  ]
+}

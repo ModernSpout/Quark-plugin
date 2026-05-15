@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:flower_pot",
+  "potted": "quark:red_blossom_sapling",
+  "mappings": [
+    {
+      "type": "flower_pot",
+      "fallback": "minecraft:potted_cherry_sapling"
+    }
+  ]
+}

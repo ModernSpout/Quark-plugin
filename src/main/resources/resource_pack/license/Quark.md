@@ -1,6 +1,6 @@
 The following files (referenced relative to the parent folder of the folder this file is in) are/were part of, or based on part of, [Quark](https://quarkmod.net/), which is/was maintained by [Violet Moon](https://violetmoon.org/):
-* Every file in `data/quark`, except for files in `data/quark/block` and `data/quark/item`
-* Every file in `assets/quark`
+* Every file in `data`, except for files in `data/quark/block` and `data/quark/item`
+* Every file in `assets`
 
 These files are provided under an `Attribution-NonCommercial-ShareAlike 3.0 Unported` license, which is included below.
 

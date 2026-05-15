@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:flower_pot",
+  "potted": "minecraft:sea_pickle",
+  "properties": {
+    "light_emission": 3
+  },
+  "mappings": [
+    {
+      "type": "flower_pot",
+      "fallback": "minecraft:potted_cactus"
+    }
+  ]
+}

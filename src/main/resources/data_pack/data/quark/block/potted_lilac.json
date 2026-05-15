@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:flower_pot",
+  "potted": "minecraft:lilac",
+  "mappings": [
+    {
+      "type": "flower_pot",
+      "fallback": "minecraft:potted_pink_tulip"
+    }
+  ]
+}

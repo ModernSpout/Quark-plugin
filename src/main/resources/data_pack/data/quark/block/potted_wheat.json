@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:flower_pot",
+  "potted": "minecraft:wheat",
+  "mappings": [
+    {
+      "type": "flower_pot",
+      "fallback": "minecraft:potted_dead_bush"
+    }
+  ]
+}

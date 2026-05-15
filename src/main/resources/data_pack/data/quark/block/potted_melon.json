@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:flower_pot",
+  "potted": "minecraft:melon_stem",
+  "mappings": [
+    {
+      "type": "flower_pot",
+      "fallback": "minecraft:potted_dark_oak_sapling"
+    }
+  ]
+}

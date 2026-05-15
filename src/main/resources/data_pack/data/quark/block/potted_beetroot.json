@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:flower_pot",
+  "potted": "minecraft:beetroots",
+  "mappings": [
+    {
+      "type": "flower_pot",
+      "fallback": "minecraft:potted_jungle_sapling"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:flower_pot",
+  "potted": "minecraft:nether_wart",
+  "mappings": [
+    {
+      "type": "flower_pot",
+      "fallback": "minecraft:potted_crimson_roots"
+    }
+  ]
+}

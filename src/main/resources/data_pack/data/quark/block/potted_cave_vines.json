@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:flower_pot",
+  "potted": "minecraft:cave_vines",
+  "properties": {
+    "light_emission": 14
+  },
+  "mappings": [
+    {
+      "type": "flower_pot",
+      "fallback": "minecraft:potted_open_eyeblossom"
+    }
+  ]
+}
