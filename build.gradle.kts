@@ -13,6 +13,7 @@ repositories {
     maven("https://jitpack.io")
 }
 
+val apiVersion = project.providers.gradleProperty("apiVersion").get()
 val spoutVersion = project.providers.gradleProperty("spoutVersion").get()
 dependencies {
     compileOnly("com.github.ModernSpout:Spout:$spoutVersion")
@@ -31,7 +32,7 @@ tasks {
     }
 
     val spoutJarURL =
-        "https://github.com/ModernSpout/Spout/releases/download/$spoutVersion/spout-$spoutVersion.jar"
+        "https://github.com/ModernSpout/Spout/releases/download/$spoutVersion/spout-$apiVersion-R$spoutVersion.jar"
     register("downloadServer") {
         group = "spout"; notCompatibleWithConfigurationCache(""); doFirst {
         serverDir.mkdirs(); pluginDir.mkdirs()
